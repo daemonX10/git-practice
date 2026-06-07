@@ -12,3 +12,8 @@ git remote add origin <repo-url>
 git push -u origin main
 git pull origin main
 ```
+```markdown
+
+git commit -a -m 'make a change'
+
+```
