@@ -17,5 +17,3 @@ git pull origin main
 git commit -a -m 'make a change'
 
 ```
->>>>>>> testing
-
