@@ -16,4 +16,5 @@ git pull origin main
 ```markdown
 
  git commit -a -m 'Make other change
-```
+$ git log --oneline --decorate --graph --all
+```## User Profile Feature
