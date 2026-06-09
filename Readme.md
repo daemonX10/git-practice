@@ -12,10 +12,10 @@ git remote add origin <repo-url>
 git push -u origin main
 git pull origin main
 ```
-
 ```markdown
 
- git commit -a -m 'Make other change
-$ git log --oneline --decorate --graph --all
-```## User Profile Feature
-Added profile customization options
+git commit -a -m 'make a change'
+
+```
+>>>>>>> testing
+
